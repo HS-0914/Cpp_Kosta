@@ -14,6 +14,6 @@ int main() {
 	//delete p;
 	delete p;
 
-
+	cout << "end" << endl;
 	return 0;
 }

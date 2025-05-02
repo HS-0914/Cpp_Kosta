@@ -15,25 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="0_ex1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="1_순차검색.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2_이분검색.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3_해시.cpp">
+    <ClCompile Include="3_2해시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3_2해시.cpp">
+    <ClCompile Include="3_해시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="4_동적배열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="5_버블정렬.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="6_선택정렬.cpp">
