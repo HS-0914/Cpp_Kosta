@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-	/*
 
 	int num = 0;
 	cin >> num;
@@ -14,10 +13,9 @@ int main() {
 	{
 		//arr[i] = (i + 1) * 10;
 		arr.push_back((i + 1) * 10);
-		cout << arr[i] << endl;
+		//cout << arr[i] << endl;
 
 	}
-	*/
 
 	list<int> lst;
 
@@ -28,7 +26,7 @@ int main() {
 
 	list<int>::iterator it;
 
-	for (it = lst.begin(); it != lst.end(); it++) {
+	for (it = arr.begin(); it != arr.end(); it++) {
 		cout << *it << endl;
 	}
 
